@@ -1,0 +1,9 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+html {
+	scroll-behavior: smooth;
+}
+/* Ajuste para anclas con navbar fija (altura estimada: 60px) */
+[id] {
+	scroll-margin-top: 70px;
+}
